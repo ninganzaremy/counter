@@ -63,7 +63,7 @@ double = () => {
     
     return(
       <div className="container">
-        <div className="navbar">count.js</div>
+        <div className="navbar">COUNTER_APP</div>
         <div className="count">
           <h1>{this.state.count}</h1>
           <button type="button" onClick={this.clear}>Clear Count</button>

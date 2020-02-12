@@ -60,8 +60,7 @@ double = () => {
 
 
   render() {
-    console.log("This is line 13 representating state", this.state.count);
-    console.log("This is the double value", this.state.double);
+    
     return(
       <div className="container">
         <div className="navbar">count.js</div>
